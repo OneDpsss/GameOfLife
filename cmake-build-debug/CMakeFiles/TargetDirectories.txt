@@ -1,0 +1,3 @@
+C:/Users/valer_9nnhxot/CLionProjects/GameOfLife/cmake-build-debug/CMakeFiles/GameOfLife.dir
+C:/Users/valer_9nnhxot/CLionProjects/GameOfLife/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/valer_9nnhxot/CLionProjects/GameOfLife/cmake-build-debug/CMakeFiles/rebuild_cache.dir
